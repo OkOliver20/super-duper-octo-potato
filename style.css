@@ -1,0 +1,21 @@
+body
+{
+    background-color: coral;
+    text-decoration: crimson;
+}
+.size
+{
+    size: 1px;
+}
+.hope{
+    inline-size: auto;
+    color: coral;
+    z-index: left;
+    text-align: end;
+    margin: auto;
+    background-color: cornflowerblue;
+    font-size: cursive;
+}
+.end{
+    font-size:60px;
+}
